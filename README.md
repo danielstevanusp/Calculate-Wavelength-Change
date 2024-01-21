@@ -7,6 +7,7 @@ input:
 - lambda2: the final wavelength in meters.
 
 how to use:
+run python3 calculate-wavelength-change.py
 1. users are prompted to input the initial wavelength (lambda1) and the final wavelength (lambda2) when running the program.
 2. the program calculates the change in wavelength using the calculate_wavelength_change function.
 3. the result, representing the change in wavelength (δλ), is displayed in meters.
